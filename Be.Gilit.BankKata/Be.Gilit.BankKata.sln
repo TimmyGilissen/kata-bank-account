@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Be.Gilit.BankKata.Tests", "Be.Gilit.BankKata.Tests\Be.Gilit.BankKata.Tests.csproj", "{D77EC743-E4D1-44E6-9583-F86E0F0EF9C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Be.Gilit.BankKata", "Be.Gilit.BankKata\Be.Gilit.BankKata.csproj", "{DC655B01-21C3-4B75-81CF-F885505334DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77EC743-E4D1-44E6-9583-F86E0F0EF9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77EC743-E4D1-44E6-9583-F86E0F0EF9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77EC743-E4D1-44E6-9583-F86E0F0EF9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77EC743-E4D1-44E6-9583-F86E0F0EF9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC655B01-21C3-4B75-81CF-F885505334DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC655B01-21C3-4B75-81CF-F885505334DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC655B01-21C3-4B75-81CF-F885505334DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC655B01-21C3-4B75-81CF-F885505334DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
